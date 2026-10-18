@@ -1,0 +1,16 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+.idea/
+*.iml
+captures/
+.DS_Store
+secrets.properties
+play-account*.json
+service-account*.json
+*.pem
+*.p12
+health-data/
+*.health.json
